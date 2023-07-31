@@ -166,7 +166,7 @@ function App() {
 
   return (
     <div className="App-header">
-      <a href={'https://bernawil.github.io/react-word-search'}>
+      <a href={'https://www.github.com/bernawil/react-word-search'}>
         <h2>
           React Word Search
         </h2>
